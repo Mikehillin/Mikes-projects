@@ -21,7 +21,7 @@ This Tableau project visualizes various types of conflict events in the Russia U
 
 ## Notes
 - This dashboard was created as final project for a Course at JMU.
-- Data last updated: 5/25
+- Data last updated 5/25
 
 ## License
 This project is open for non-commercial use. Please credit the author if reused or modified.
